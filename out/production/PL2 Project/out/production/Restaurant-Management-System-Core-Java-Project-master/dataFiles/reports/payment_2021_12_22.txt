@@ -1,4 +1,0 @@
-*********** Payment List (2021_12_22) ***********
-Order ID:1000  StaffName:Eyad Elfar                      Work time:0.00  Pay:100.00
--------------------------------------------------------
-Total payment:EGP 100.0(1)

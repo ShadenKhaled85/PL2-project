@@ -1,5 +1,0 @@
-*********** Order List (2021_12_22) ***********
-Order ID:   1  StaffName:Eyad Elfar                      Total:EGP 85.00
-Order ID:   2  StaffName:Eyad Elfar                      Total:EGP 32.00
--------------------------------------------------------
-Total sales:EGP 117.0(2)  Canceled:EGP 0.0(0)
